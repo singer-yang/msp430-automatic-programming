@@ -1,2 +1,5 @@
 # msp430-automatic-programming
-code of my dual degree graduation project
+## code of my dual degree graduation project
+## 1, find a place in flash memory to store unique id
+## 2, load program to msp430 simultaneously
+## 3, ...
