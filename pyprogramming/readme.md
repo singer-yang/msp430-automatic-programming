@@ -7,3 +7,7 @@
 自动化编程：
 1. 读出 ID 
 2. 遍历 ID，写入对应的程序
+   
+clearinfo.py 可以擦除所有的内存信息，包括 INFO 和 MAIN  
+readinfo.py 将 INFO 信息读出到 txt 文件中  
+writeinfo.py 遍历端口号，将 ID 写入 INFO 地址中
