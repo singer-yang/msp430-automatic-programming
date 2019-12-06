@@ -1,3 +1,5 @@
+conda install PySerial  
+
 使用 python 可以很方便调用命令行，实现对不同的开发板写入不同的代码  
 准备工作：
 1. 读出端口号  
